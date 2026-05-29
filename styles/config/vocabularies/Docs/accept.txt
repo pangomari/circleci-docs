@@ -416,3 +416,4 @@ Xvfb
 YAML
 Zstd
 LangSmith
+[Tt]estsuite
